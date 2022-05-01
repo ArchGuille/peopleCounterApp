@@ -1,0 +1,143 @@
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin-top: 0;
+  padding-top: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border-style: none;
+      border-top-style: dotted;
+      border-color: #EAF6F6;
+      border-width: 5px;
+      width: 5%;
+      margin-top: 5%;
+      margin-bottom: 5%;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.Bottom-Cloud {
+  position: absolute;
+  left: 350px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+    margin-top: 5%;
+
+  }
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+
+}
+
+.Foto {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+
+}
+
+
+.footer-link{
+  color: #11999E;
+  font-style: normal;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.texto{
+  width: 30%;
+  margin: auto;
+
+}
+
+.Top-Container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.Top-Cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px
+}
+
+.VideoGame {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.WorkOut {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
